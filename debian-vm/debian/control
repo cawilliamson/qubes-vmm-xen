@@ -38,6 +38,7 @@ Build-Depends:
     python,
     seabios,
     uuid-dev:amd64,
+    xfslibs-dev,
     zlib1g-dev,
 X-Python-Version: 2.7
 Standards-Version: 3.9.5

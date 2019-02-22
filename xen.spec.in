@@ -278,6 +278,7 @@ BuildRequires: ipxe-roms-qemu
 BuildRequires: bzip2-devel xz-devel
 # libfsimage
 BuildRequires: e2fsprogs-devel
+BuildRequires: xfsprogs-devel
 # tools now require yajl
 BuildRequires: yajl-devel
 # stubdom build requires cmake

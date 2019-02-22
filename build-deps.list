@@ -19,6 +19,7 @@ iasl
 bzip2-devel
 xz-devel
 e2fsprogs-devel
+xfsprogs-devel
 python-devel
 gtk2-devel
 which
